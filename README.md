@@ -1,1 +1,1 @@
-# styles
+# @naked-ui/css
