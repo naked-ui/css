@@ -1,6 +1,6 @@
 {
   "name": "@naked-ui/css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Naked UI Styles Package",
   "main": "index.css",
   "scripts": {
